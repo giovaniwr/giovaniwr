@@ -25,6 +25,8 @@
   <img align="center" alt="postgress" height="40" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
   <img align="center" alt="Oracle" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
   <img align="center" alt="Progress4gl" height="40" width="50" src=https://pics.freeicons.io/uploads/icons/png/14885453661551942137-512.png />
+  <img aling="center" alt="Laravel" heigth="40" with="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
+
 
 </div>
  
