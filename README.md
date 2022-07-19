@@ -2,9 +2,9 @@
 
   Sou Eng Civil, estou cursando engenharia de software.
 
-  Atualmente trabalho na www.aliare.co com a Linguageem Progress4GL.
+  Atualmente trabalho na Drugovich com o Framework Laravel e vue.js.
   
-  Sou desenvolvedor frontend e no momento estou aprendendo mais sobre o ReactJS e seus recursos, Javascript, Typescript e NodeJS.
+  Sou desenvolvedor Fullstack e no momento estou aprendendo mais sobre o Vue.js e seus recursos, Javascript, Typescript e NodeJS.
 <br>
 
 ##
