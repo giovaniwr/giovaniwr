@@ -1,8 +1,6 @@
 ### <h1>Meu nome é Giovani W. Raitz</h1>
 
-  Sou Eng Civil, estou cursando engenharia de software.
-
-  Atualmente trabalho na Drugovich com o Framework Laravel e vue.js.
+  Sou Eng Civil, estou finalizando Engenharia de Software.
   
   Sou desenvolvedor Fullstack e no momento estou aprendendo mais sobre o Vue.js e seus recursos, Javascript, Typescript e NodeJS.
 <br>
