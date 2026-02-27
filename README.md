@@ -10,8 +10,9 @@ Desenvolvedor Fullstack Pleno com atuação em **Segurança da Informação**, e
 <br>
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=giovaniwr&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"/>
-  <img height="160em" src="https://streak-stats.demolab.com?user=giovaniwr&theme=dark&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=giovaniwr&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=giovaniwr&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=giovaniwr&theme=github_dark"/>
 </div>
 
 <br>
